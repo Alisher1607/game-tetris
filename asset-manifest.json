@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/app-tetris/static/css/main.bf8ab5a7.css",
-    "main.js": "/app-tetris/static/js/main.95121103.js",
-    "static/media/bg.png": "/app-tetris/static/media/bg.d63cfd51f1a63591fdd7.png",
-    "static/media/Pixel-LCD-7.woff": "/app-tetris/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
-    "index.html": "/app-tetris/index.html",
-    "main.bf8ab5a7.css.map": "/app-tetris/static/css/main.bf8ab5a7.css.map",
-    "main.95121103.js.map": "/app-tetris/static/js/main.95121103.js.map"
+    "main.css": "/game-tetris/static/css/main.ab22eb60.css",
+    "main.js": "/game-tetris/static/js/main.5723b92f.js",
+    "static/media/bg.png": "/game-tetris/static/media/bg.d63cfd51f1a63591fdd7.png",
+    "static/media/Pixel-LCD-7.woff": "/game-tetris/static/media/Pixel-LCD-7.63d9c15192fdeab6d3a6.woff",
+    "index.html": "/game-tetris/index.html",
+    "main.ab22eb60.css.map": "/game-tetris/static/css/main.ab22eb60.css.map",
+    "main.5723b92f.js.map": "/game-tetris/static/js/main.5723b92f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf8ab5a7.css",
-    "static/js/main.95121103.js"
+    "static/css/main.ab22eb60.css",
+    "static/js/main.5723b92f.js"
   ]
 }
