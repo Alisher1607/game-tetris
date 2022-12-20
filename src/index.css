@@ -1,0 +1,11 @@
+body {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+@font-face {
+  font-family: "Pixel";
+  src: url("font/Pixel-LCD-7.woff") format("woff");
+}
